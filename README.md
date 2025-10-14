@@ -1,4 +1,4 @@
-# This is for my Shader Graph Udemy Course...
+# Shader Graph Udemy Course
 
 ### WIP
 
